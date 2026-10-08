@@ -15,8 +15,8 @@ body { min-height: 100vh; margin: 0; background: var(--bg); color: var(--text); 
 a { color: inherit; }
 a:focus-visible { outline: 3px solid var(--yellow); outline-offset: 5px; }
 .site-header { height: 76px; display: flex; align-items: center; justify-content: space-between; max-width: 1120px; margin: 0 auto; padding: 0 28px; border-bottom: 1px solid var(--line); }
-.brand { display: inline-flex; align-items: center; gap: 11px; text-decoration: none; font-size: 17px; font-weight: 650; letter-spacing: -.025em; }
-.brand-icon { display: block; width: 34px; height: 34px; flex: none; border-radius: 9px; }
+.brand { display: inline-flex; align-items: center; gap: 12px; text-decoration: none; font-size: 17px; font-weight: 650; letter-spacing: -.025em; }
+.brand-icon { display: block; width: 40px; height: 40px; flex: none; border: 1px solid rgba(255, 255, 255, .16); border-radius: 11px; }
 nav { display: flex; gap: 26px; }
 nav a { color: var(--muted); font-size: 14px; text-decoration: none; }
 nav a:hover, .text-link:hover { color: var(--yellow); }
