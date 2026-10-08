@@ -1,33 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
   <defs>
     <linearGradient id="background" x1="512" y1="0" x2="512" y2="1024" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#131314"/>
-      <stop offset="1" stop-color="#040404"/>
+      <stop stop-color="#131314" />
+      <stop offset="1" stop-color="#040404" />
     </linearGradient>
-    <clipPath id="icon-shape"><rect width="1024" height="1024" rx="224"/></clipPath>
+    <clipPath id="icon-shape">
+      <rect width="1024" height="1024" rx="224" />
+    </clipPath>
+    <filter id="filter0_dii_0_16" x="290" y="117" width="452" height="407" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix" />
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+      <feOffset dy="34" />
+      <feGaussianBlur stdDeviation="16" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.65 0" />
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_16" />
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_16" result="shape" />
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+      <feOffset dy="3" />
+      <feGaussianBlur stdDeviation="1.5" />
+      <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1" />
+      <feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.65 0" />
+      <feBlend mode="normal" in2="shape" result="effect2_innerShadow_0_16" />
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+      <feOffset dy="-5" />
+      <feGaussianBlur stdDeviation="2.5" />
+      <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.22 0" />
+      <feBlend mode="normal" in2="effect2_innerShadow_0_16" result="effect3_innerShadow_0_16" />
+    </filter>
+    <linearGradient id="paint0_linear_0_16" x1="516" y1="152" x2="516" y2="428" gradientUnits="userSpaceOnUse">
+      <stop stop-color="white" />
+      <stop offset="1" stop-color="#CCCCCC" />
+    </linearGradient>
+    <filter id="filter0_dii_0_9" x="90" y="393" width="844" height="575" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix" />
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+      <feOffset dy="34" />
+      <feGaussianBlur stdDeviation="16" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.65 0" />
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_9" />
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_9" result="shape" />
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+      <feOffset dy="3" />
+      <feGaussianBlur stdDeviation="1.5" />
+      <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1" />
+      <feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.65 0" />
+      <feBlend mode="normal" in2="shape" result="effect2_innerShadow_0_9" />
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+      <feOffset dy="-5" />
+      <feGaussianBlur stdDeviation="2.5" />
+      <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.22 0" />
+      <feBlend mode="normal" in2="effect2_innerShadow_0_9" result="effect3_innerShadow_0_9" />
+    </filter>
+    <linearGradient id="paint0_linear_0_9" x1="512" y1="398" x2="512" y2="902" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFE63D" />
+      <stop offset="1" stop-color="#FFB800" />
+    </linearGradient>
+    <filter id="filter0_dii_0_11" x="225.17" y="603.37" width="609.114" height="274.63" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix" />
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+      <feOffset dy="34" />
+      <feGaussianBlur stdDeviation="16" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.65 0" />
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_11" />
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_11" result="shape" />
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+      <feOffset dy="3" />
+      <feGaussianBlur stdDeviation="1.5" />
+      <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1" />
+      <feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.65 0" />
+      <feBlend mode="normal" in2="shape" result="effect2_innerShadow_0_11" />
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+      <feOffset dy="-5" />
+      <feGaussianBlur stdDeviation="2.5" />
+      <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.22 0" />
+      <feBlend mode="normal" in2="effect2_innerShadow_0_11" result="effect3_innerShadow_0_11" />
+    </filter>
+    <filter id="filter1_dii_0_11" x="655" y="512" width="124" height="131" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix" />
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+      <feOffset dy="34" />
+      <feGaussianBlur stdDeviation="16" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.65 0" />
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_11" />
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_11" result="shape" />
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+      <feOffset dy="3" />
+      <feGaussianBlur stdDeviation="1.5" />
+      <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1" />
+      <feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.65 0" />
+      <feBlend mode="normal" in2="shape" result="effect2_innerShadow_0_11" />
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+      <feOffset dy="-5" />
+      <feGaussianBlur stdDeviation="2.5" />
+      <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.22 0" />
+      <feBlend mode="normal" in2="effect2_innerShadow_0_11" result="effect3_innerShadow_0_11" />
+    </filter>
+    <linearGradient id="paint0_linear_0_11" x1="529.727" y1="608.37" x2="529.727" y2="812" gradientUnits="userSpaceOnUse">
+      <stop stop-color="white" />
+      <stop offset="1" stop-color="#CCCCCC" />
+    </linearGradient>
+    <linearGradient id="paint1_linear_0_11" x1="717" y1="517" x2="717" y2="577" gradientUnits="userSpaceOnUse">
+      <stop stop-color="white" />
+      <stop offset="1" stop-color="#CCCCCC" />
+    </linearGradient>
   </defs>
   <g clip-path="url(#icon-shape)">
-    <rect width="1024" height="1024" fill="url(#background)"/>
-    <image href="photounlocked-layers/open-shackle-depth24.svg" x="0" y="24" width="1024" height="1024"/>
-    <image href="photounlocked-layers/open-shackle-depth24.svg" x="0" y="20" width="1024" height="1024"/>
-    <image href="photounlocked-layers/open-shackle-depth24.svg" x="0" y="16" width="1024" height="1024"/>
-    <image href="photounlocked-layers/open-shackle-depth24.svg" x="0" y="12" width="1024" height="1024"/>
-    <image href="photounlocked-layers/open-shackle-depth24.svg" x="0" y="8" width="1024" height="1024"/>
-    <image href="photounlocked-layers/open-shackle-depth24.svg" x="0" y="4" width="1024" height="1024"/>
-    <image href="photounlocked-layers/open-shackle.svg" x="0" y="0" width="1024" height="1024"/>
-    <image href="photounlocked-layers/photo-frame-depth24.svg" x="0" y="24" width="1024" height="1024"/>
-    <image href="photounlocked-layers/photo-frame-depth24.svg" x="0" y="20" width="1024" height="1024"/>
-    <image href="photounlocked-layers/photo-frame-depth24.svg" x="0" y="16" width="1024" height="1024"/>
-    <image href="photounlocked-layers/photo-frame-depth24.svg" x="0" y="12" width="1024" height="1024"/>
-    <image href="photounlocked-layers/photo-frame-depth24.svg" x="0" y="8" width="1024" height="1024"/>
-    <image href="photounlocked-layers/photo-frame-depth24.svg" x="0" y="4" width="1024" height="1024"/>
-    <image href="photounlocked-layers/photo-frame.svg" x="0" y="0" width="1024" height="1024"/>
-    <image href="photounlocked-layers/photo-detail-depth24.svg" x="0" y="24" width="1024" height="1024"/>
-    <image href="photounlocked-layers/photo-detail-depth24.svg" x="0" y="20" width="1024" height="1024"/>
-    <image href="photounlocked-layers/photo-detail-depth24.svg" x="0" y="16" width="1024" height="1024"/>
-    <image href="photounlocked-layers/photo-detail-depth24.svg" x="0" y="12" width="1024" height="1024"/>
-    <image href="photounlocked-layers/photo-detail-depth24.svg" x="0" y="8" width="1024" height="1024"/>
-    <image href="photounlocked-layers/photo-detail-depth24.svg" x="0" y="4" width="1024" height="1024"/>
-    <image href="photounlocked-layers/photo-detail.svg" x="0" y="0" width="1024" height="1024"/>
+    <rect width="1024" height="1024" fill="url(#background)" />
+    <g transform="translate(0 24)">
+      <g id="01 / Open shackle / depth 24">
+        <path id="Vector" d="M352 428V316C352 224 424 152 516 152C608 152 680 214 680 286" stroke="#666666" stroke-width="60" stroke-linecap="round" stroke-linejoin="round" />
+      </g>
+    </g>
+    <g transform="translate(0 20)">
+      <g id="01 / Open shackle / depth 24">
+        <path id="Vector" d="M352 428V316C352 224 424 152 516 152C608 152 680 214 680 286" stroke="#666666" stroke-width="60" stroke-linecap="round" stroke-linejoin="round" />
+      </g>
+    </g>
+    <g transform="translate(0 16)">
+      <g id="01 / Open shackle / depth 24">
+        <path id="Vector" d="M352 428V316C352 224 424 152 516 152C608 152 680 214 680 286" stroke="#666666" stroke-width="60" stroke-linecap="round" stroke-linejoin="round" />
+      </g>
+    </g>
+    <g transform="translate(0 12)">
+      <g id="01 / Open shackle / depth 24">
+        <path id="Vector" d="M352 428V316C352 224 424 152 516 152C608 152 680 214 680 286" stroke="#666666" stroke-width="60" stroke-linecap="round" stroke-linejoin="round" />
+      </g>
+    </g>
+    <g transform="translate(0 8)">
+      <g id="01 / Open shackle / depth 24">
+        <path id="Vector" d="M352 428V316C352 224 424 152 516 152C608 152 680 214 680 286" stroke="#666666" stroke-width="60" stroke-linecap="round" stroke-linejoin="round" />
+      </g>
+    </g>
+    <g transform="translate(0 4)">
+      <g id="01 / Open shackle / depth 24">
+        <path id="Vector" d="M352 428V316C352 224 424 152 516 152C608 152 680 214 680 286" stroke="#666666" stroke-width="60" stroke-linecap="round" stroke-linejoin="round" />
+      </g>
+    </g>
+    <g>
+      <g id="01 / Open shackle">
+        <g id="Vector" filter="url(#filter0_dii_0_16)">
+          <path d="M352 428V316C352 224 424 152 516 152C608 152 680 214 680 286" stroke="url(#paint0_linear_0_16)" stroke-width="60" stroke-linecap="round" stroke-linejoin="round" />
+        </g>
+      </g>
+    </g>
+    <g transform="translate(0 24)">
+      <g id="02 / Photo frame / depth 24">
+        <path id="Vector" fill-rule="evenodd" clip-rule="evenodd" d="M230 398H794C854 398 902 446 902 506V794C902 854 854 902 794 902H230C170 902 122 854 122 794V506C122 446 170 398 230 398ZM232 468C210 468 192 486 192 508V792C192 814 210 832 232 832H792C814 832 832 814 832 792V508C832 486 814 468 792 468H232Z" fill="#995C04" />
+      </g>
+    </g>
+    <g transform="translate(0 20)">
+      <g id="02 / Photo frame / depth 24">
+        <path id="Vector" fill-rule="evenodd" clip-rule="evenodd" d="M230 398H794C854 398 902 446 902 506V794C902 854 854 902 794 902H230C170 902 122 854 122 794V506C122 446 170 398 230 398ZM232 468C210 468 192 486 192 508V792C192 814 210 832 232 832H792C814 832 832 814 832 792V508C832 486 814 468 792 468H232Z" fill="#995C04" />
+      </g>
+    </g>
+    <g transform="translate(0 16)">
+      <g id="02 / Photo frame / depth 24">
+        <path id="Vector" fill-rule="evenodd" clip-rule="evenodd" d="M230 398H794C854 398 902 446 902 506V794C902 854 854 902 794 902H230C170 902 122 854 122 794V506C122 446 170 398 230 398ZM232 468C210 468 192 486 192 508V792C192 814 210 832 232 832H792C814 832 832 814 832 792V508C832 486 814 468 792 468H232Z" fill="#995C04" />
+      </g>
+    </g>
+    <g transform="translate(0 12)">
+      <g id="02 / Photo frame / depth 24">
+        <path id="Vector" fill-rule="evenodd" clip-rule="evenodd" d="M230 398H794C854 398 902 446 902 506V794C902 854 854 902 794 902H230C170 902 122 854 122 794V506C122 446 170 398 230 398ZM232 468C210 468 192 486 192 508V792C192 814 210 832 232 832H792C814 832 832 814 832 792V508C832 486 814 468 792 468H232Z" fill="#995C04" />
+      </g>
+    </g>
+    <g transform="translate(0 8)">
+      <g id="02 / Photo frame / depth 24">
+        <path id="Vector" fill-rule="evenodd" clip-rule="evenodd" d="M230 398H794C854 398 902 446 902 506V794C902 854 854 902 794 902H230C170 902 122 854 122 794V506C122 446 170 398 230 398ZM232 468C210 468 192 486 192 508V792C192 814 210 832 232 832H792C814 832 832 814 832 792V508C832 486 814 468 792 468H232Z" fill="#995C04" />
+      </g>
+    </g>
+    <g transform="translate(0 4)">
+      <g id="02 / Photo frame / depth 24">
+        <path id="Vector" fill-rule="evenodd" clip-rule="evenodd" d="M230 398H794C854 398 902 446 902 506V794C902 854 854 902 794 902H230C170 902 122 854 122 794V506C122 446 170 398 230 398ZM232 468C210 468 192 486 192 508V792C192 814 210 832 232 832H792C814 832 832 814 832 792V508C832 486 814 468 792 468H232Z" fill="#995C04" />
+      </g>
+    </g>
+    <g>
+      <g id="02 / Photo frame">
+        <g id="Vector" filter="url(#filter0_dii_0_9)">
+          <path fill-rule="evenodd" clip-rule="evenodd" d="M230 398H794C854 398 902 446 902 506V794C902 854 854 902 794 902H230C170 902 122 854 122 794V506C122 446 170 398 230 398ZM232 468C210 468 192 486 192 508V792C192 814 210 832 232 832H792C814 832 832 814 832 792V508C832 486 814 468 792 468H232Z" fill="url(#paint0_linear_0_9)" />
+        </g>
+      </g>
+    </g>
+    <g transform="translate(0 24)">
+      <g id="03 / Photo detail / depth 24">
+        <path id="Vector" d="M257.17 774L414.5 616C424.472 606 437.767 606 448.847 615L550.778 707L642.739 624C653.818 614 667.114 614 678.193 624L802.284 747V794C802.284 804 793.42 812 782.341 812H257.17V774Z" fill="#666666" />
+        <path id="Vector_2" d="M717 577C733.569 577 747 563.569 747 547C747 530.431 733.569 517 717 517C700.431 517 687 530.431 687 547C687 563.569 700.431 577 717 577Z" fill="#666666" />
+      </g>
+    </g>
+    <g transform="translate(0 20)">
+      <g id="03 / Photo detail / depth 24">
+        <path id="Vector" d="M257.17 774L414.5 616C424.472 606 437.767 606 448.847 615L550.778 707L642.739 624C653.818 614 667.114 614 678.193 624L802.284 747V794C802.284 804 793.42 812 782.341 812H257.17V774Z" fill="#666666" />
+        <path id="Vector_2" d="M717 577C733.569 577 747 563.569 747 547C747 530.431 733.569 517 717 517C700.431 517 687 530.431 687 547C687 563.569 700.431 577 717 577Z" fill="#666666" />
+      </g>
+    </g>
+    <g transform="translate(0 16)">
+      <g id="03 / Photo detail / depth 24">
+        <path id="Vector" d="M257.17 774L414.5 616C424.472 606 437.767 606 448.847 615L550.778 707L642.739 624C653.818 614 667.114 614 678.193 624L802.284 747V794C802.284 804 793.42 812 782.341 812H257.17V774Z" fill="#666666" />
+        <path id="Vector_2" d="M717 577C733.569 577 747 563.569 747 547C747 530.431 733.569 517 717 517C700.431 517 687 530.431 687 547C687 563.569 700.431 577 717 577Z" fill="#666666" />
+      </g>
+    </g>
+    <g transform="translate(0 12)">
+      <g id="03 / Photo detail / depth 24">
+        <path id="Vector" d="M257.17 774L414.5 616C424.472 606 437.767 606 448.847 615L550.778 707L642.739 624C653.818 614 667.114 614 678.193 624L802.284 747V794C802.284 804 793.42 812 782.341 812H257.17V774Z" fill="#666666" />
+        <path id="Vector_2" d="M717 577C733.569 577 747 563.569 747 547C747 530.431 733.569 517 717 517C700.431 517 687 530.431 687 547C687 563.569 700.431 577 717 577Z" fill="#666666" />
+      </g>
+    </g>
+    <g transform="translate(0 8)">
+      <g id="03 / Photo detail / depth 24">
+        <path id="Vector" d="M257.17 774L414.5 616C424.472 606 437.767 606 448.847 615L550.778 707L642.739 624C653.818 614 667.114 614 678.193 624L802.284 747V794C802.284 804 793.42 812 782.341 812H257.17V774Z" fill="#666666" />
+        <path id="Vector_2" d="M717 577C733.569 577 747 563.569 747 547C747 530.431 733.569 517 717 517C700.431 517 687 530.431 687 547C687 563.569 700.431 577 717 577Z" fill="#666666" />
+      </g>
+    </g>
+    <g transform="translate(0 4)">
+      <g id="03 / Photo detail / depth 24">
+        <path id="Vector" d="M257.17 774L414.5 616C424.472 606 437.767 606 448.847 615L550.778 707L642.739 624C653.818 614 667.114 614 678.193 624L802.284 747V794C802.284 804 793.42 812 782.341 812H257.17V774Z" fill="#666666" />
+        <path id="Vector_2" d="M717 577C733.569 577 747 563.569 747 547C747 530.431 733.569 517 717 517C700.431 517 687 530.431 687 547C687 563.569 700.431 577 717 577Z" fill="#666666" />
+      </g>
+    </g>
+    <g>
+      <g id="03 / Photo detail">
+        <g id="Vector" filter="url(#filter0_dii_0_11)">
+          <path d="M257.17 774L414.5 616C424.472 606 437.767 606 448.847 615L550.778 707L642.739 624C653.818 614 667.114 614 678.193 624L802.284 747V794C802.284 804 793.42 812 782.341 812H257.17V774Z" fill="url(#paint0_linear_0_11)" />
+        </g>
+        <g id="Vector_2" filter="url(#filter1_dii_0_11)">
+          <path d="M717 577C733.569 577 747 563.569 747 547C747 530.431 733.569 517 717 517C700.431 517 687 530.431 687 547C687 563.569 700.431 577 717 577Z" fill="url(#paint1_linear_0_11)" />
+        </g>
+      </g>
+    </g>
   </g>
 </svg>
